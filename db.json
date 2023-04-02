@@ -10,5 +10,11 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  
+ "users" [
+    { "id": 1, "name": "Alex", "age": 25, "surname": "Gulevich" },
+    { "id": 2, "name": "Vanya", "age": 24, "surname": "Gulevich"},
+    { "id": 3, "name": "Vlad", "age": 19, "surname": "Gulevich"} 
+]
 }
